@@ -1,0 +1,5 @@
+# Set up conda processing environment for SCIRoCCo education tutorials (TU Wien)
+wget https://repo.continuum.io/miniconda/Miniconda-latest-Linux-x86_64.sh -O miniconda.sh
+bash miniconda.sh -b -p $HOME/scirocco_conda
+export PATH="$HOME/scirocco_conda/bin:$PATH"
+conda env create -f conda_environment.yml
