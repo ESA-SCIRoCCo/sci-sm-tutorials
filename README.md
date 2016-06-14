@@ -20,12 +20,28 @@ The exercises can be viewed online without further requirements, but in order to
 
 * Clone Git repository: see Linux
 
-* Install miniconda and create conda environment (= install all the packages needed for the tutorials):
+* Install miniconda from http://conda.pydata.org/miniconda.html
+
+* Create conda environment (= install all the packages needed for the tutorials):
     - ...
 
 ## Mac OS X
 
 * Clone Git repository: see Linux
 
-* Install miniconda and create conda environment (= install all the packages needed for the tutorials):
+* Install miniconda from http://conda.pydata.org/miniconda.html
+
+* Create conda environment (= install all the packages needed for the tutorials):
     - ...
+
+
+More information on conda environments: http://conda.pydata.org/docs/using/envs.html
+
+## Start jupyter notebook
+
+* Open terminal, type 'jupyter notebook'
+* A new tab is opened in your browser where you can select any exercise you wish from the before cloned Git repository.
+
+
+
+Please don't hesitate to report any bugs you might find in the tutorials to isabella.pfeil@geo.tuwien.ac.at.
