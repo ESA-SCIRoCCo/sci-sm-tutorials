@@ -14,7 +14,7 @@ The exercises can be viewed online without further requirements, but in order to
 * Install miniconda and create conda environment (= install all the packages needed for the tutorials):
     - if not open anymore, open your computer's terminal
     - change to the previously cloned Git repository
-    - type 'setup_env' and hit Enter
+    - type 'source setup_env' and hit Enter
 
 ## Windows
 
