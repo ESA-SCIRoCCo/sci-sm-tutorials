@@ -51,4 +51,4 @@ More information on conda environments: http://conda.pydata.org/docs/using/envs.
 
 
 
-Please don't hesitate to report any bugs you might find in the tutorials to isabella.pfeil@geo.tuwien.ac.at.
+Please don't hesitate to raise an issue on any bugs you might find in the tutorials.
