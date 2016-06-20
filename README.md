@@ -31,7 +31,7 @@ The exercises can be viewed online without further requirements, but in order to
 * Clone Git repository: see Linux
 
 * Install miniconda:
-    - download moniconda from http://conda.pydata.org/miniconda.html
+    - download miniconda from http://conda.pydata.org/miniconda.html
     - open your computer's terminal; type
         * `cd Downloads/`
         * `bash Miniconda2-latest-MacOSX-x86_64.sh`
@@ -48,7 +48,7 @@ More information on conda environments: http://conda.pydata.org/docs/using/envs.
 ## Start jupyter notebook
 
 * Open terminal, type 'jupyter notebook'
-* A new tab is opened in your browser where you can select any exercise you wish from the before cloned Git repository.
+* A new tab is opened in your browser where you can select any exercise you wish from the previously cloned Git repository.
 
 
 
