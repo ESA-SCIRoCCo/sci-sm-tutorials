@@ -1,4 +1,4 @@
-name: sci-sm-tutorials
+name: sci-sm-tutorials_test
 dependencies:
 - backports=1.0=py27_0
 - backports_abc=0.4=py27_0
