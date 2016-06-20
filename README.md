@@ -4,7 +4,7 @@ This repository contains different exercises for a better understanding of the T
 
 The exercises can be viewed online without further requirements, but in order to use them interactively, the following installation process has to be carried out:
 
-## Linux
+## Installation - Linux
 
 * Clone Git repository: 
     - open your computer's terminal
@@ -15,8 +15,9 @@ The exercises can be viewed online without further requirements, but in order to
     - if not open anymore, open your computer's terminal
     - change to the previously cloned Git repository
     - type `source setup_env` and hit Enter
+    - activate environment: `source activate sci-sm-tutorials`
 
-## Windows
+## Installation - Windows
 
 * Clone Git repository: see Linux
 
@@ -25,7 +26,7 @@ The exercises can be viewed online without further requirements, but in order to
 * Create conda environment (= install all the packages needed for the tutorials):
     - ...
 
-## Mac OS X
+## Installation - Mac OS X
 
 * Clone Git repository: see Linux
 
