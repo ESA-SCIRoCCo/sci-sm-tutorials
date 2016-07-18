@@ -24,7 +24,10 @@ The exercises can be viewed online without further requirements, but in order to
 * Install miniconda from http://conda.pydata.org/miniconda.html
 
 * Create conda environment (= install all the packages needed for the tutorials):
-    - ...
+    - if not open anymore, open your computer's terminal
+    - change to the previously cloned Git repository
+    - type `source setup_env` and hit Enter (if Error: install packages listed in conda_environment.yml manually)
+    - activate environment: `activate sci-sm-tutorials`
 
 ## Installation - Mac OS X
 
@@ -40,7 +43,10 @@ The exercises can be viewed online without further requirements, but in order to
         * More information: http://conda.pydata.org/docs/install/quick.html#os-x-miniconda-install
 
 * Create conda environment (= install all the packages needed for the tutorials):
-    - ...
+    - if not open anymore, open your computer's terminal
+    - change to the previously cloned Git repository
+    - type `source setup_env` and hit Enter
+    - activate environment: `source activate sci-sm-tutorials`
 
 
 More information on conda environments: http://conda.pydata.org/docs/using/envs.html
